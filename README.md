@@ -2,7 +2,7 @@
 
 Simple complex numbers calculator that transform any given number between its polar and rectangular forms. Built in Python 3.10.8 using tkinter & pyperclip libraries.
 
-The calculator is intended to be used by Matlab users. It returns the results in MATLAB format for easy implementation.
+A tool for MATLAB users. It returns the results in MATLAB format for easy implementation.
 
 This software was developed as an engineering programming excercise to practice tkinter librarie for graphic user interface applications. It also works!
 
