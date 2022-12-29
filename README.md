@@ -4,8 +4,6 @@ Simple complex numbers calculator that transform any given number between its po
 
 A tool for MATLAB users. It returns the results in MATLAB format for easy implementation.
 
-This software was developed as an engineering programming excercise to practice tkinter librarie for graphic user interface applications. It also works!
-
 ![Main window sample](screenshots/001.png)
 
 The repository includes:
@@ -13,3 +11,5 @@ The repository includes:
 * Screenshots of the software running on Windows 10.
 
 Standalone executable can be found inside the .zip folder: https://drive.google.com/file/d/1VAzgZ9mIq_aXA-dTnTjCxnfdqe_iPvyA/
+
+This software was developed as an engineering programming excercise to practice tkinter librarie for graphic user interface applications. It also works!
