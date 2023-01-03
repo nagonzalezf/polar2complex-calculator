@@ -12,4 +12,4 @@ The repository includes:
 
 Standalone executable can be found inside the .zip folder: https://drive.google.com/file/d/1VAzgZ9mIq_aXA-dTnTjCxnfdqe_iPvyA/
 
-This software was developed as an engineering programming excercise to practice tkinter librarie for graphic user interface applications. It also works!
+NOTE: This software was developed as an engineering programming excercise to practice tkinter librarie for graphic user interface applications. It also works!
