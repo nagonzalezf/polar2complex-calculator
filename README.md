@@ -10,6 +10,6 @@ The repository includes:
 * Source code of the software.
 * Screenshots of the software running on Windows 10.
 
-Standalone executable can be found inside the .zip folder: https://drive.google.com/file/d/1VAzgZ9mIq_aXA-dTnTjCxnfdqe_iPvyA/
+Standalone executable can be found inside a .zip folder at: https://github.com/nagonzalezf/polar2complex-calculator/releases/
 
 NOTE: This software was developed as an engineering programming excercise to practice tkinter librarie for graphic user interface applications. It also works!
